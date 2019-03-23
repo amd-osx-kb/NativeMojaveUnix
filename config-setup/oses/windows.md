@@ -55,7 +55,7 @@ I will also be sharing the XML of each section for those who prefer working with
 
 ### Cloud Clover Editor Screenshot
 
-![ACPI page](../../.gitbook/assets/image%20%282%29.png)
+![ACPI page](../../.gitbook/assets/image%20%283%29.png)
 
 ### Explanation <a id="explanation"></a>
 
@@ -96,7 +96,7 @@ The only other things we've done on this page are enable that checkbox.
 
 ### Cloud Clover Editor Screenshot
 
-![Boot](../../.gitbook/assets/image%20%288%29.png)
+![Boot](../../.gitbook/assets/image%20%289%29.png)
 
 
 
@@ -134,7 +134,7 @@ These are the only other settings I've updated in this section.
 
 ### Cloud Clover Editor Screenshot
 
-![CPU](../../.gitbook/assets/image%20%2812%29.png)
+![CPU](../../.gitbook/assets/image%20%2814%29.png)
 
 ### Explanation
 
@@ -163,7 +163,7 @@ These are the only other settings I've updated in this section.
 
 ### Cloud Clover Editor Screenshot
 
-![Devices](../../.gitbook/assets/image%20%289%29.png)
+![Devices](../../.gitbook/assets/image%20%2811%29.png)
 
 ### Explanation
 
@@ -200,7 +200,7 @@ Nothing needs to be done here.
 
 ### Cloud Clover Editor Screenshot
 
-![GUI](../../.gitbook/assets/image%20%2826%29.png)
+![GUI](../../.gitbook/assets/image%20%2830%29.png)
 
 ### Explanation
 
@@ -251,11 +251,11 @@ If you are on a modern Radeon card you probably need to tick Radeon De-Init, oth
 
 ### Cloud Clover Editor Screenshots
 
-![Main page \(for now\)](../../.gitbook/assets/image%20%2834%29.png)
+![Main page \(for now\)](../../.gitbook/assets/image%20%2838%29.png)
 
-![External Icon Patch](../../.gitbook/assets/image%20%2816%29.png)
+![External Icon Patch](../../.gitbook/assets/image%20%2819%29.png)
 
-![Port Limit Patch](../../.gitbook/assets/image%20%2836%29.png)
+![Port Limit Patch](../../.gitbook/assets/image%20%2840%29.png)
 
 ### Explanation
 
@@ -281,7 +281,7 @@ The two Kext patches shown on the main screen are added by pressing the + button
 
 ### Cloud Clover Editor Screenshot
 
-![Rt](../../.gitbook/assets/image%20%2821%29.png)
+![Rt](../../.gitbook/assets/image%20%2825%29.png)
 
 ### Explanation <a id="explanation-5"></a>
 
@@ -347,7 +347,7 @@ _BooterConfig_ gets set to `0x28`, and _CsrActiveConfig_ is set to `0x3e7` which
 
 ### Cloud Clover Editor Screenshot
 
-![SMBIOS](../../.gitbook/assets/image%20%285%29.png)
+![SMBIOS](../../.gitbook/assets/image%20%286%29.png)
 
 ### Explanation
 
@@ -373,7 +373,7 @@ The SMBIOS is what our machine tells macOS it is. In case of a Ryzen based syste
 
 ### Cloud Clover Editor Screenshot
 
-![System Parameters](../../.gitbook/assets/image%20%2829%29.png)
+![System Parameters](../../.gitbook/assets/image%20%2833%29.png)
 
 ### Explanation
 

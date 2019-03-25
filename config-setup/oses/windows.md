@@ -134,7 +134,7 @@ These are the only other settings I've updated in this section.
 
 ### Cloud Clover Editor Screenshot
 
-![CPU](../../.gitbook/assets/image%20%2814%29.png)
+![CPU](../../.gitbook/assets/image%20%2815%29.png)
 
 ### Explanation
 
@@ -200,7 +200,7 @@ Nothing needs to be done here.
 
 ### Cloud Clover Editor Screenshot
 
-![GUI](../../.gitbook/assets/image%20%2830%29.png)
+![GUI](../../.gitbook/assets/image%20%2831%29.png)
 
 ### Explanation
 
@@ -251,11 +251,11 @@ If you are on a modern Radeon card you probably need to tick Radeon De-Init, oth
 
 ### Cloud Clover Editor Screenshots
 
-![Main page \(for now\)](../../.gitbook/assets/image%20%2838%29.png)
+![Main page \(for now\)](../../.gitbook/assets/image%20%2839%29.png)
 
-![External Icon Patch](../../.gitbook/assets/image%20%2819%29.png)
+![External Icon Patch](../../.gitbook/assets/image%20%2820%29.png)
 
-![Port Limit Patch](../../.gitbook/assets/image%20%2840%29.png)
+![Port Limit Patch](../../.gitbook/assets/image%20%2841%29.png)
 
 ### Explanation
 
@@ -281,7 +281,7 @@ The two Kext patches shown on the main screen are added by pressing the + button
 
 ### Cloud Clover Editor Screenshot
 
-![Rt](../../.gitbook/assets/image%20%2825%29.png)
+![Rt](../../.gitbook/assets/image%20%2826%29.png)
 
 ### Explanation <a id="explanation-5"></a>
 
@@ -373,7 +373,7 @@ The SMBIOS is what our machine tells macOS it is. In case of a Ryzen based syste
 
 ### Cloud Clover Editor Screenshot
 
-![System Parameters](../../.gitbook/assets/image%20%2833%29.png)
+![System Parameters](../../.gitbook/assets/image%20%2834%29.png)
 
 ### Explanation
 
@@ -381,5 +381,5 @@ Inject Kexts is set to 0 so that Clover injects all the kexts we chose before, r
 
 ## Download
 
-You can now go back to `Cloud Clover Editor`. You can download you config here. Here's my plist, which you can use as an example. Make sure to generate new SMBIOS serials if you plan on using it!
+You can now go back to `Cloud Clover Editor`. You can download you config here. Rename the file to config.plist and copy it to _\[your drive\]/EFI/CLOVER/_. Here's my plist, which you can use as an example. Make sure to generate new SMBIOS serials if you plan on using it!
 

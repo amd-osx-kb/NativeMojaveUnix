@@ -28,13 +28,13 @@ Now we need to install Clover on it so that it can boot on a normal PC.
 
 To do so launch the Clover installer you downloaded before and select the USB drive. Now press the `Customise` button.
 
-![Customize button in the bottom left.](../.gitbook/assets/image%20%2826%29.png)
+![Customize button in the bottom left.](../.gitbook/assets/image%20%2827%29.png)
 
 The options that generally are recommended for Ryzen \(and most other hackintoshes\) are shown in the following screenshots.
 
 ![UEFI booting only and Install in the ESP](../.gitbook/assets/image%20%288%29.png)
 
-![ApfsDriverLoader and AptioMemoryFix drivers](../.gitbook/assets/image%20%2824%29.png)
+![ApfsDriverLoader and AptioMemoryFix drivers](../.gitbook/assets/image%20%2825%29.png)
 
 ![HFSPlus \(You can use VBoxHFS if your copy of the installer doesn&apos;t come with HFSPlus\)](../.gitbook/assets/image%20%281%29.png)
 

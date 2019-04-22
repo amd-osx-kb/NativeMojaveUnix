@@ -8,7 +8,6 @@
   * [macOS](creating-the-installer/macos.md)
   * [Windows](creating-the-installer/windows.md)
 * [Config Setup](config-setup/README.md)
-  * [Config Basics](config-setup/https-hackintosh.gitbook.io-r-hackintosh-vanilla-desktop-guide-config.plist-basics.md)
   * [OSes](config-setup/oses/README.md)
     * [macOS](config-setup/oses/macos.md)
     * [Windows](config-setup/oses/windows.md)

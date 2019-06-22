@@ -6,7 +6,7 @@ So, what will you need to create this probably maybe possibly not broken Mojave 
 
 * 8GB USB drive
 * [CorpNewt's gibMacOS](https://github.com/corpnewt/gibMacOS)
-* [Cloud Clover Editor](http://cloudclovereditor.altervista.org/cce/index.php\)
+* [Cloud Clover Editor](http://cloudclovereditor.altervista.org/cce/index.php)
 * Proper text editor \(eg. [Visual Studio Code](https://code.visualstudio.com)\)
 * **A working internet connection**
 * Kexts for your hardware
@@ -17,7 +17,7 @@ So, what will you need to create this probably maybe possibly not broken Mojave 
 ## macOS
 
 * 8GB USB drive
-* Install macOS.app
+* Install macOS Mojave.app
 * [Clover Installer](https://github.com/Dids/clover-builder) \(Daily builds by Dids available here!\)
 * [Clover Configurator](https://mackie100projects.altervista.org/download-clover-configurator/)
 * Proper text editor \(eg. [Visual Studio Code](https://code.visualstudio.com)\)

@@ -2,19 +2,7 @@
 
 First of all plug in your 8GB drive and make sure there is nothing important on it, _**as it will be wiped**_
 
-Launch Terminal, and run `diskutil list`
-
-This lists all the disks and partitions on the machine. Take note of the device identifier of your USB drive. _**Make sure you have the proper drive as we are about to wipe it**_.
-
-Run the following command, making sure to replace the \# with the identifier of your USB drive:
-
-```bash
-diskutil partitionDisk /dev/disk# GPT JHFS+ "USB" 100%
-```
-
-This formats your USB drive to a GPT drive with an HFS partition covering 100% of the disk.
-
-Now following [Apple's own guide](https://support.apple.com/en-us/HT201372) you need to run the following command:
+Now following [Apple's own guide](https://support.apple.com/en-us/HT201372) you need to run the following command (changing "USB" to whatever your USB is named):
 
 ```bash
 sudo "/Applications/Install macOS Mojave.app/Contents/Resources/createinstallmedia" --volume /Volumes/USB
@@ -30,7 +18,7 @@ To do so launch the Clover installer you downloaded before and select the USB dr
 
 ![Customize button in the bottom left.](../.gitbook/assets/image%20%2827%29.png)
 
-The options that generally are recommended for Ryzen \(and most other hackintoshes\) are shown in the following screenshots.
+The options that generally are recommended are shown in the following screenshots.
 
 ![UEFI booting only and Install in the ESP](../.gitbook/assets/image%20%288%29.png)
 

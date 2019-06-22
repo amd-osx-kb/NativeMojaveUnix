@@ -10,19 +10,21 @@ description: >-
 
 ### What works
 
-* Ryzen CPUs
-* Native USB
-* Native Audio
+* 15h/Bulldozer CPUs (FX CPUs)
+* 16h/Jaguar CPUs (A-Series APUs)
+* 17h/Zen (Ryzen, Threadripper & Athlon 2xxGE CPUs)
+* Native USB & Native Audio (Ryzen Only)
+* Nvidia Kepler GPUs
+* AMD CDN 1st Gen or newer GPUs
 * Latest macOS Mojave
+* App Store
 * iCloud
 * Siri
-* iMessage, Facetime \(if set up properly\)
+* iMessage & Facetime \(if set up properly\)
 
 ### What doesn't work
 
 * 32-bit applications
-* Nvidia GPUs
+* Nvidia Maxwell, Pascal and Turing GPUs
 * AMD GPUs that don't support Metal
-* FX, APU or anything other than Ryzen
 * Integrated Graphics
-
